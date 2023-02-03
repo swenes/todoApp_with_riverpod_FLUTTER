@@ -1,1 +1,1 @@
-I used riverpod
+It is a simple to-do app coded with riverpod
